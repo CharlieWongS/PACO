@@ -1,8 +1,8 @@
-# PACO
+# PACO: Auto
  <u><a href="http://www.pacoffical.com" >website for PACO</a></u> </br>
 <u><a href="https://apps.apple.com/app/paco-auto/id6746071368" >Available on App Store!</a></u> </br>
 
-PACO offers
+PACO: Auto offers
 - Automatic, CarPlay- and Bluetooth-free parking Recording solution
 - Road trippers, and vintage car enthusiasts essential
 - Privacy, No Data to our Sever
